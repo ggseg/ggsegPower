@@ -5,7 +5,7 @@ library(ggplot2)
 # ggseg ----
 context("test-palettes")
 test_that("check new palettes work", {
-  expect_equal(length(brain_pal("power", package = "ggsegPower")), 210)
+  expect_equal(length(brain_pal("power", package = "ggsegPower")), 130)
 
   expect_error(brain_pal("power"), "not a valid")
 

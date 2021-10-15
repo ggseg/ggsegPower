@@ -18,11 +18,13 @@ knitr::opts_chunk$set(
 # ggsegPower <img src='man/figures/logo.png' align="right" height="138.5" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/ggseg/ggsegPower/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegPower/actions)
 <!-- badges: end -->
 
 This package contains dataset for plotting the [power](add url here) atlas ggseg and ggseg3d. 
 
-Add reference here.
+Power, J. D., Cohen, A. L., Nelson, S. M., Wig, G. S., Barnes, K. A., Church, J. A., ... & Petersen, S. E. (2011). Functional network organization of the human brain. Neuron, 72(4), 665-678.
+[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222858/)
 
 To learn how to use these atlases, please look at the documentation for [ggseg](https://ggseg.github.io/ggseg/) and [ggseg3d](https://ggseg.github.io/ggseg3d)
 
