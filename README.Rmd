@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ggseg/ggsegPower/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegPower/actions)
+[![DOI](https://zenodo.org/badge/417497619.svg)](https://zenodo.org/badge/latestdoi/417497619)
+
 <!-- badges: end -->
 
 This package contains dataset for plotting the [power](add url here) atlas ggseg and ggseg3d. 

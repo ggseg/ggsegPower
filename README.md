@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ggseg/ggsegPower/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegPower/actions)
+[![DOI](https://zenodo.org/badge/417497619.svg)](https://zenodo.org/badge/latestdoi/417497619)
+
 <!-- badges: end -->
 
 This package contains dataset for plotting the [power](add%20url%20here)
@@ -45,6 +47,7 @@ remotes::install_github("ggseg/ggsegPower")
 
 ``` r
 library(ggseg)
+#> Warning: package 'ggseg' was built under R version 4.1.1
 #> Loading required package: ggplot2
 library(ggseg3d)
 library(ggsegPower)
